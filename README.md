@@ -17,6 +17,7 @@ Produire l'artefact HTML :
 * https://www.mkdocs.org/#installation
 * https://squidfunk.github.io/mkdocs-material/
 
+![](jenkins_board.jpg)
 
 ### Procédure de départ
 
