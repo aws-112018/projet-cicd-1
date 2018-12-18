@@ -19,7 +19,7 @@ Produire l'artefact HTML :
 ### Procédure de départ
 
 * Créer un conteneur Docker qui exécute mkdocs (Dockerfile)
-* Dans le dossier, on dispose des fichiers sourceet et on exécute le conteneur contre le dossier pour générer le site Web
+* Dans le dossier, on dispose des fichiers source et et on exécute le conteneur contre le dossier pour générer le site Web
 * On peut ensuite porter cette exécution dans jenkins.
 
 
