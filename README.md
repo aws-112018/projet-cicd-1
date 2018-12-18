@@ -10,6 +10,8 @@ Produire l'artefact HTML :
 * hébergés sur un SCM (Github) 
 * avec un serveur d'integration (Jenkins).
 
+![](pipeline.png)
+
 ## Point de départ
 
 * https://www.mkdocs.org/#installation
