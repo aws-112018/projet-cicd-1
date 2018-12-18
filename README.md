@@ -14,3 +14,17 @@ Produire l'artefact HTML :
 
 * https://www.mkdocs.org/#installation
 * https://squidfunk.github.io/mkdocs-material/
+
+
+### Procédure de départ
+
+* Créer un conteneur Docker qui exécute mkdocs (Dockerfile)
+* Dans le dossier, on dispose des fichiers sourceet et on exécute le conteneur contre le dossier pour générer le site Web
+* On peut ensuite porter cette exécution dans jenkins.
+
+
+### Jenkins
+
+```
+docker run --rm -u root -p 8080:8080 -v jenkins-data:/var/jenkins_home -v /var/run/docker.sock:/var/run/docker.sock jenkinsci/blueocean
+```
