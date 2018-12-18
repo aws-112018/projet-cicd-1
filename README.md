@@ -2,7 +2,7 @@
 
 Projet d'intégration continue
 
-# Consigne
+## Consigne
 
 Produire l'artefact HTML :
  
@@ -10,3 +10,7 @@ Produire l'artefact HTML :
 * hébergés sur un SCM (Github) 
 * avec un serveur d'integration (Jenkins).
 
+## Point de départ
+
+* https://www.mkdocs.org/#installation
+* https://squidfunk.github.io/mkdocs-material/
